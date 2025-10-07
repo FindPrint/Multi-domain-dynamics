@@ -1,6 +1,3 @@
-
-Parfait Zackary 🙌 — je vais te livrer une **trame complète de rapport scientifique et philosophique** pour ton projet *Multi‑domain‑dynamics*. Ce document est pensé comme un rapport professionnel, reproductible, et accessible à la fois aux chercheurs, aux praticiens et aux lecteurs curieux.  
-
 ---
 
 # 📑 Rapport scientifique et philosophique  
