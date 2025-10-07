@@ -1,3 +1,34 @@
+
+---
+
+## 📌 Note de synthèse / Executive Summary
+
+**FR :**  
+Ce projet explore la comparaison entre le modèle classique **ARIMA** et l’équation expérimentale **Cosmic Tension** à travers trois domaines empiriques :  
+- **Épidémies** : ARIMA reste globalement compétitif, mais Cosmic Tension prend l’avantage dans certaines fenêtres temporelles.  
+- **Finance** : Cosmic Tension surpasse nettement ARIMA, année après année, en captant des régularités que le modèle classique peine à reproduire.  
+- **Climat** : Cosmic Tension démontre une robustesse remarquable, avec des erreurs systématiquement plus faibles que celles d’ARIMA.  
+
+Ces résultats suggèrent que l’équation n’est pas universellement supérieure, mais qu’elle révèle un **potentiel fort dans les dynamiques financières et climatiques**. En revanche, son application aux épidémies demande encore des ajustements méthodologiques.  
+
+Ce rapport global constitue une **base de discussion ouverte** : il invite à la critique, à la reproduction des résultats et à l’exploration de nouveaux jeux de données.  
+
+---
+
+**EN :**  
+This project compares the classical **ARIMA** model with the experimental **Cosmic Tension** equation across three empirical domains:  
+- **Epidemics**: ARIMA remains generally competitive, though Cosmic Tension outperforms in certain time windows.  
+- **Finance**: Cosmic Tension consistently outperforms ARIMA year after year, capturing patterns that the classical model struggles to reproduce.  
+- **Climate**: Cosmic Tension shows remarkable robustness, with systematically lower errors than ARIMA.  
+
+These findings suggest that the equation is not universally superior, but it shows **strong potential in financial and climate dynamics**. Its application to epidemics, however, still requires methodological refinement.  
+
+This global report serves as a **foundation for open discussion**: it invites critique, reproducibility, and exploration of additional datasets.  
+
+
+
+
+
 ---
 
 # 📑 Scientific and Philosophical Report  
