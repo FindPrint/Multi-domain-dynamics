@@ -68,4 +68,4 @@ Un rapport fusionné, incluant introduction, résultats et conclusion bilingue, 
 ## 📜 Licence / License
 Ce projet est ouvert à la critique et à la réutilisation scientifique.  
 This project is open for critique and scientific reuse.  
-➡️ Ajouter un fichier `LICENSE` (MIT, CC-BY, etc.) selon vos préférences.
+➡️ `LICENSE (MIT)`  
