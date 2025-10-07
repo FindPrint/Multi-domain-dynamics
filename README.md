@@ -42,7 +42,7 @@ The goal is to evaluate its robustness and relevance across three different cont
 ### 🌡️ Climat / Climate
 - Cosmic Tension shows remarkable robustness.  
 - Systematically lower errors compared to ARIMA.  
-➡️ Voir le rapport détaillé : [`COMPARISON_CLIMATE.md`](climate-dynamics/COMPARISON_CLIMATE.md)
+➡️ Voir le rapport détaillé : [`COMPARISON_CLIMATE.md`]([climate-dynamics/COMPARISON_CLIMATE.md](https://github.com/FindPrint/Multi-domain-dynamics/blob/main/climate-dynamics/COMPARISON_CLIMATE.md))
 
 ---
 
