@@ -1,4 +1,9 @@
+---
 
+# 📑 Scientific and Philosophical Report  
+**Multi‑domain‑dynamics: The Cosmic Tension Equation as a Generative Framework**
+
+---
 ---
 
 ## 📌 Note de synthèse / Executive Summary
@@ -26,15 +31,6 @@ These findings suggest that the equation is not universally superior, but it sho
 This global report serves as a **foundation for open discussion**: it invites critique, reproducibility, and exploration of additional datasets.  
 
 
-
-
-
----
-
-# 📑 Scientific and Philosophical Report  
-**Multi‑domain‑dynamics: The Cosmic Tension Equation as a Generative Framework**
-
----
 
 ## 1. Title Page
 **Title:** *Multi‑domain‑dynamics: A Generative Equation for Finance, Epidemiology, and Climate*  
