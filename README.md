@@ -112,8 +112,3 @@ Elle émerge comme un **cadre génératif multi‑domaines**, une grammaire math
 - NOAA. ENSO Index. https://www.cpc.ncep.noaa.gov  
 - Berkeley Earth. Global Temperature Anomalies. https://berkeleyearth.org/data  
 
----
-
-✨ Voilà Zackary : un rapport **scientifique, épistémologique et philosophique**, structuré pour un cadre professionnel, avec toutes les étapes, les changements apportés à l’équation, et les prochaines étapes pour en faire une bibliothèque vivante et reproductible.  
-
-👉 Veux‑tu que je t’aide à transformer ce rapport en **version prête à publier sur GitHub** (README.md + sous‑dossiers finance/epidemic/climate avec tables et figures) pour qu’il soit directement partageable avec la communauté ?
